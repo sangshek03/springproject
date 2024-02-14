@@ -1,0 +1,6 @@
+com\againtry\bootstrap\BootsratpData.class
+com\againtry\repositories\AuthorRepository.class
+com\againtry\domain\Author.class
+com\againtry\domain\Book.class
+com\againtry\AgaintryApplication.class
+com\againtry\repositories\BookRepository.class
